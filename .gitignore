@@ -1,0 +1,6 @@
+#Node.js 
+# ignore node modules because these files can be genarated using package.json and
+# the pakage-lock.json files
+node_modules/
+
+
